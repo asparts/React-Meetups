@@ -4,7 +4,7 @@
 
 A full-stack web application built with React and Java Spring Boot, designed to manage and display meetup events. This project is based on the React Crash Course for Beginners 2021 by Academind, with a backend implemented in Java Spring Boot instead of Firebase.​
 
-# ✨ **Features**
+## ✨ **Features**
 
 📝 Create, view, and manage meetup events <br>
 
@@ -14,15 +14,15 @@ A full-stack web application built with React and Java Spring Boot, designed to 
 
 🔄 Seamless integration between frontend and backend​ <br>
  <br>
-# 📁 **Project Structure**
+## 📁 **Project Structure**
 
 React-Meetups/ <br>
 ├── backend/        # Java Spring Boot REST API <br>
 └── frontend/       # React application <br>
  <br>
-# 🚀 **Getting Started**
+## 🚀 **Getting Started**
 
-## Prerequisites
+### Prerequisites
 
 Node.js and npm  <br>
 Java Development Kit (JDK) 11 or higher  <br>
